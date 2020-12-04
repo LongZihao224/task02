@@ -1,0 +1,79 @@
+{
+  "id": "2246385",
+  "name": "百度2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "372115",
+      "name": "cc-book",
+      "font_class": "cc-book",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7715145",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "8953159",
+      "name": "search-plus",
+      "font_class": "search-plus",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "10168457",
+      "name": "video-camera",
+      "font_class": "video-camera",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "11982654",
+      "name": "Upload, interface, uploading",
+      "font_class": "Uploadinterfaceuploading",
+      "unicode": "e9cb",
+      "unicode_decimal": 59851
+    },
+    {
+      "icon_id": "13260031",
+      "name": "trash",
+      "font_class": "trash",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "13990910",
+      "name": "img",
+      "font_class": "img",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "14772962",
+      "name": "user plus-fill",
+      "font_class": "userplus-fill",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "16165612",
+      "name": "bar chart",
+      "font_class": "barchart",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "18018992",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
